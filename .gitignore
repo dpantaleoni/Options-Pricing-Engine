@@ -1,0 +1,7 @@
+# C build artifacts
+*.o
+option_pricing
+
+# macOS
+.DS_Store
+._*

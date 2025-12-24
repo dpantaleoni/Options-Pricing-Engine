@@ -1,0 +1,153 @@
+Elapsed time: 1.084347 seconds
+Call Price:      10.449828
+Put Price:       5.572662
+Elapsed time: 1.102755 seconds
+Call Price:      10.446577
+Put Price:       5.572992
+Elapsed time: 1.144213 seconds
+Call Price:      10.439048
+Put Price:       5.577162
+Elapsed time: 1.111652 seconds
+Call Price:      10.443208
+Put Price:       5.574977
+Elapsed time: 1.112043 seconds
+Call Price:      10.444767
+Put Price:       5.575883
+Elapsed time: 1.134279 seconds
+Call Price:      10.445194
+Put Price:       5.576413
+Elapsed time: 1.156532 seconds
+Call Price:      10.445430
+Put Price:       5.574431
+Elapsed time: 1.140114 seconds
+Call Price:      10.444995
+Put Price:       5.574238
+Elapsed time: 1.134665 seconds
+Call Price:      10.448692
+Put Price:       5.574698
+Elapsed time: 1.142357 seconds
+Call Price:      10.448677
+Put Price:       5.572776
+Elapsed time: 1.149234 seconds
+Call Price:      10.449980
+Put Price:       5.571859
+Elapsed time: 1.116745 seconds
+Call Price:      10.450718
+Put Price:       5.571476
+Elapsed time: 1.141265 seconds
+Call Price:      10.446818
+Put Price:       5.572531
+Elapsed time: 1.187841 seconds
+Call Price:      10.447304
+Put Price:       5.572287
+Elapsed time: 1.164042 seconds
+Call Price:      10.448245
+Put Price:       5.572498
+Elapsed time: 1.197910 seconds
+Call Price:      10.449272
+Put Price:       5.571763
+Elapsed time: 1.165307 seconds
+Call Price:      10.451730
+Put Price:       5.569711
+Elapsed time: 1.221364 seconds
+Call Price:      10.452083
+Put Price:       5.569051
+Elapsed time: 1.173837 seconds
+Call Price:      10.455011
+Put Price:       5.569970
+Elapsed time: 1.151382 seconds
+Call Price:      10.449974
+Put Price:       5.570228
+Elapsed time: 1.191855 seconds
+Call Price:      10.451214
+Put Price:       5.568719
+Elapsed time: 1.205715 seconds
+Call Price:      10.453511
+Put Price:       5.569243
+Elapsed time: 1.207837 seconds
+Call Price:      10.449949
+Put Price:       5.571318
+Elapsed time: 1.256395 seconds
+Call Price:      10.450925
+Put Price:       5.572640
+Elapsed time: 1.186373 seconds
+Call Price:      10.445533
+Put Price:       5.574224
+Elapsed time: 1.200962 seconds
+Call Price:      10.447273
+Put Price:       5.574219
+Elapsed time: 1.178545 seconds
+Call Price:      10.447606
+Put Price:       5.574070
+Elapsed time: 1.191277 seconds
+Call Price:      10.451844
+Put Price:       5.572555
+Elapsed time: 1.171439 seconds
+Call Price:      10.452321
+Put Price:       5.573923
+Elapsed time: 1.285312 seconds
+Call Price:      10.451860
+Put Price:       5.572260
+Elapsed time: 1.213296 seconds
+Call Price:      10.453173
+Put Price:       5.571280
+Elapsed time: 1.199784 seconds
+Call Price:      10.452842
+Put Price:       5.572876
+Elapsed time: 1.210779 seconds
+Call Price:      10.460873
+Put Price:       5.571810
+Elapsed time: 1.186810 seconds
+Call Price:      10.459093
+Put Price:       5.571958
+Elapsed time: 1.188081 seconds
+Call Price:      10.456831
+Put Price:       5.572998
+Elapsed time: 1.193568 seconds
+Call Price:      10.457409
+Put Price:       5.572477
+Elapsed time: 1.190378 seconds
+Call Price:      10.457028
+Put Price:       5.572458
+Elapsed time: 1.189443 seconds
+Call Price:      10.455671
+Put Price:       5.573813
+Elapsed time: 1.202318 seconds
+Call Price:      10.455153
+Put Price:       5.573829
+Elapsed time: 1.208225 seconds
+Call Price:      10.455137
+Put Price:       5.572632
+Elapsed time: 1.203709 seconds
+Call Price:      10.453023
+Put Price:       5.572814
+Elapsed time: 1.228372 seconds
+Call Price:      10.448643
+Put Price:       5.574434
+Elapsed time: 1.196841 seconds
+Call Price:      10.450777
+Put Price:       5.574811
+Elapsed time: 1.230689 seconds
+Call Price:      10.448879
+Put Price:       5.576081
+Elapsed time: 1.202529 seconds
+Call Price:      10.448496
+Put Price:       5.575853
+Elapsed time: 1.207698 seconds
+Call Price:      10.448518
+Put Price:       5.574799
+Elapsed time: 1.192857 seconds
+Call Price:      10.449860
+Put Price:       5.574023
+Elapsed time: 1.203616 seconds
+Call Price:      10.449140
+Put Price:       5.573229
+Elapsed time: 1.204464 seconds
+Call Price:      10.447257
+Put Price:       5.573605
+Elapsed time: 1.201121 seconds
+Call Price:      10.447153
+Put Price:       5.576190
+Elapsed time: 1.203303 seconds
+Call Price:      10.446321
+Put Price:       5.577518
